@@ -7,3 +7,7 @@ Console
 Console
 
     bash install.sh
+
+Console
+
+    rm install.sh
