@@ -1,17 +1,25 @@
-# Installation JS Framework
+# Installation JS-DEV-Framework
 
-Console
+> In Projektordner wechseln
 
-    git clone https://github.com/tBrause/teste-installation.git .
+    cd 
 
-Console
+> CMD-Befehl kopieren und einfügen
+
+    git clone https://github.com/tBrause/teste-installation.git .; git remote remove origin
+
+> CMD-Befehl kopieren und einfügen
+
+    npm install; npm run build; npm run dev
+
+# Erfolgreich getestet: 19.03.2023
+
+*Test für Installations-Script*
+
+CMD
 
     bash install.sh
 
-Console
+CMD
 
     rm install.sh
-
-Console
-
-    nmp install && npm run build && npm run dev
