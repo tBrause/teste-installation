@@ -1,0 +1,4 @@
+# file created: 2021-05-12
+User-agent: * 
+
+Sitemap: sitemap.xml
