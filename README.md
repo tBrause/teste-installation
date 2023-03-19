@@ -4,7 +4,7 @@
 
 > CMD-Befehl kopieren
 
-    git clone https://github.com/tBrause/teste-installation.git .; rm -fr .git
+    git clone https://github.com/tBrause/teste-installation.git .; git remote remove origin
 
 > CMD-Befehl kopieren
 
