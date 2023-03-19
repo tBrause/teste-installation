@@ -1,6 +1,6 @@
-# Installation JS Framework
+# Installation JS-DEV-Framework
 
-**Werkzeuge zur Entwicklungs**
+**Werkzeuge zur Entwicklung**
 
 > CMD-Befehl kopieren
 
