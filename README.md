@@ -11,3 +11,7 @@ Console
 Console
 
     rm install.sh
+
+Console
+
+    nmp install && npm run build && npm run dev
