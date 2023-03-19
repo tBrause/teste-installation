@@ -4,6 +4,14 @@ Console
 
     git clone https://github.com/tBrause/teste-installation.git .
 
+Console PowerShell
+
+    npm install; npm run build; npm run dev
+
+Console
+
+    npm install && npm run build && npm run dev
+
 Console
 
     bash install.sh
@@ -11,11 +19,3 @@ Console
 Console
 
     rm install.sh
-
-Console
-
-    npm install && npm run build && npm run dev
-
-Console PowerShell
-
-    npm install; npm run build; npm run dev
