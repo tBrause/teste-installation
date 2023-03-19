@@ -1,21 +1,21 @@
 # Installation JS Framework
 
-Console
+**Werkzeuge zur Entwicklungs**
+
+> CMD-Befehl kopieren
 
     git clone https://github.com/tBrause/teste-installation.git .
 
-Console PowerShell
+> CMD-Befehl kopieren
 
     npm install; npm run build; npm run dev
 
-Console
+*Test für Installations-Script*
 
-    npm install && npm run build && npm run dev
-
-Console
+CMD
 
     bash install.sh
 
-Console
+CMD
 
     rm install.sh
