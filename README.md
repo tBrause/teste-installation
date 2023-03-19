@@ -1,7 +1,5 @@
 # Installation JS-DEV-Framework
 
-**Werkzeuge zur Entwicklung**
-
 > CMD-Befehl kopieren
 
     git clone https://github.com/tBrause/teste-installation.git .; git remote remove origin
