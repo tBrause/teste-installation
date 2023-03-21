@@ -18,8 +18,8 @@
 
 CMD
 
-    bash install.sh
+    bash start.sh
 
 CMD
 
-    rm install.sh
+    rm start.sh
